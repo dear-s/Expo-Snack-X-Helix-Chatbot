@@ -12,7 +12,7 @@
     "expo": "^34.0.0",
     "react": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
-    "react-dom": "16.3.0",
+    "react-dom": "16.13.0",
     "prop-types": "*",
     "native-base": "2.12.1",
     "react-native-nav": "2.0.2",
