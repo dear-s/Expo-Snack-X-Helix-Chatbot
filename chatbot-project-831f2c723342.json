@@ -1,12 +1,12 @@
 {
-  "type": "service_account",
-  "project_id": "chatbot-project-fushvb",
-  "private_key_id": "831f2c723342171488f258a1caa7fa6d1a3dd0bf",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDNSbH8i9Gp4N8r\nAF0leFlOiZQ4hUYwFU+cwVt20fil4a9Qf2/aSDSeJM0JwYzPtmh/5YiX2D67E3W1\nUp62yTJtcjjrowD/b2RNPPUBl4P/mlOpL+WkbvvdvwKCMM3JRy9bFQbSW8Z15knk\nbnHNwPgz0E5bK9w1SsHTbmRo+NZlXluVirS3VpJsZpwRgtWkrrticXNcXLe/s3iW\nOtgWUgNkwXJHwuIb0GqoLFtgCdBYH51cRc5zWq0dsoJ1D6+IskYy+l7w3OpB29Ys\n+CeFdCW+eoOdu+ZJGG7QLD69PJJgEGkRN0fMrfYrVCY8nxDueRERDqj4R+jDIHLd\nYl0z1xoFAgMBAAECggEABhIR01gHITDnKIxgNMV0TqA+49T9GFro+ce1/rOC2NTt\nrEG4ewn7lFmePpWcpl/Mg0u0WFkqsbmHl48T5m/Yr+fayw0M8IDIxIfy7tMeMibM\nJoqmDdDCXfJSDquGylbyjYz3oKzaF45xzPF/KAh2zoFwb73CS0kkpi3zhi8ll+W+\n0uB4dIaEdj4o9lJYVTShSFJZSAQ7mfUenhHzIx8wMBj8d4aXqw9d3HofVmo45QLg\nlRhcc1sPqC7vOiHufii/lXPWuGpmE6Vwj4/bJ/KPR/S4QVeWsR5PMiJifx8eXlcM\nFsq9sSgcB6zswbTY8Wogy85lpcUdmkaonRylZEsSGQKBgQD3GwCz8l7hu3Onz4lZ\nt7bo337IvKLuJlptzD3tQDttiCjnvPSFFkdKubUrEF4QdaJIoLaBo0Iu9XxdznCN\n2xX73bsYOhG7ddw42/2U2qOtC2yBCAtCe1ZcoWZO8uhcAMepkbfhwlUKFfmhIgyD\ni60OxDuFUKuif+CvqAaImIPmAwKBgQDUrVtUYtMaAKb48xLChhItRGI1AtxyZCaB\nhG5cCD3G1Md+DsLYcbeAHgWcjt7UVB8Roc8Hoe1Ly+5chKb5gmIz2a691H/S2lQg\nwCXOIstKIkdPuFHKi9exbjvyO7edek8IK+ds7EGESQI5MqqB/bwhOA9yXHrOIvu/\nikLuG+ylVwKBgQDYynb2aKh3kHaqfji5XqV5b0MTJ/Qlzb4+YBbghB7fPLrufOdl\nr6MCWyUnz+dGt32WDHGyEKJrAnKG9ivnOJPz8ZdIbQHLnl6D//Vc1+kLU19xYLZI\nMF8XS36vuwrCVOjWywIxbcYf4CGvDWk/K5a7wsuZban3Ggvs8BQzWOM3MwKBgQC+\nnd30pVqVvK3rBVn0FVxnTBpFbxoMQO0uOnb7b7uG4SEoP6yteEbCwqW+62KWpgru\nr7syGRTpUY+DRrWtfgnsdRekNriWUG8Ep5N6zT6tZEnMDuToCCy7b5S1CIcK0xvQ\ntCEJRDt4iENA5sNiHPwoPenCU1cSONKwmwhgB5EzowKBgQDpzsrAuFgX5+HTLMDW\noX2+3/yJq/IzRI7vVFXxf5Sjx14MHC7FAyu3YS4lywdC2UItiY4dU6AsHOfqmPnP\nfcz4agRLERwz+VQ0Sz+XiNLQGYo6L1Fto1Vk3MKITTeEPW3tocjjMuK8yItoSKJH\nFaspfzLUDcuMdc6xy///ngiZMg==\n-----END PRIVATE KEY-----\n",
-  "client_email": "id-85-project@chatbot-project-fushvb.iam.gserviceaccount.com",
-  "client_id": "112494867358117139639",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-85-project%40chatbot-project-fushvb.iam.gserviceaccount.com"
+  "type": "XXX",
+  "project_id": "XXX",
+  "private_key_id": "XXX",
+  "private_key": "-----BEGIN PRIVATE KEY-----\XXX\XXX+XXX/XXX/XXX\XXX-----END PRIVATE KEY-----\n",
+  "client_email": "XXX",
+  "client_id": "XXX",
+  "auth_uri": "XXX",
+  "token_uri": "XXX",
+  "auth_provider_x509_cert_url": "XXX",
+  "client_x509_cert_url": "XXX"
 }
